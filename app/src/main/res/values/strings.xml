@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="action_settings">Settings</string>
+    <string name="roll_dice">Roll Dice</string>
+    <string name="points">Points</string>
+    <string name="textview">TextView</string>
+</resources>
